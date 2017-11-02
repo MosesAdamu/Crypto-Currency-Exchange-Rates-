@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Crypto-Currency Exchange Rates</string>
+    <string name="switch_title">Switch from BTC to ETH</string>
+</resources>
